@@ -2,4 +2,4 @@ version: 0.0
  os: linux 
  files: 
   - source: / 
-    destination: /var/www/sid/ 
+    destination: /var/www/sid1/ 
